@@ -1,0 +1,78 @@
+#body {
+  color: yellow;
+}
+tr > td {
+  width: 100px;
+  height: 100px;
+}
+.player1 > td:nth-child(2) {
+  background-color: blue;
+}
+.stages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#stage1 {
+  width: 1000px;
+  border: 35px solid rgb(172, 49, 41);
+  padding: 35px;
+  margin: 15px;
+  top: 300px;
+}
+#stage2 {
+  width: 600px;
+  border: 25px solid rgb(216, 138, 21);
+  padding: 25px;
+  margin: 15px;
+}
+#stage3 {
+  width: 600px;
+  border: 25px solid rgb(225, 238, 44);
+  padding: 25px;
+  margin: 15px;
+}
+#stage4 {
+  width: 600px;
+  border: 25px solid rgb(62, 128, 0);
+  padding: 25px;
+  margin: 15px;
+}
+#stage5 {
+  width: 600px;
+  border: 25px solid rgb(0, 128, 100);
+  padding: 25px;
+  margin: 15px;
+}
+#stage6 {
+  width: 600px;
+  border: 25px solid rgb(46, 134, 175);
+  padding: 25px;
+  margin: 15px;
+}
+#stage7 {
+  width: 600px;
+  border: 25px solid rgb(89, 30, 226);
+  padding: 25px;
+  margin: 15px;
+}
+#stage8 {
+  width: 600px;
+  border: 25px solid rgb(38, 0, 128);
+  padding: 25px;
+  margin: 15px;
+}
+#stage9 {
+  width: 600px;
+  border: 25px solid rgb(128, 0, 111);
+  padding: 25px;
+  margin: 15px;
+}
+#stage10 {
+  width: 600px;
+  border: 25px solid rgb(165, 32, 50);
+  padding: 25px;
+  margin: 15px;
+}
